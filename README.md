@@ -12,7 +12,6 @@
 
 ### 創立價值
 
-
 ## 廣東自民黨
 ### 宗旨
 - 本黨定名為廣東自民黨（英文： Liberal Democratic Party of Cantonia）以實現本黨之綱領為宗旨。
