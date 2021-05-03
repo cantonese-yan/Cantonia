@@ -85,8 +85,8 @@
 
 
 
-
-### 表決流程（測試中）
+### 以下流程圖需要用到 Mermaid.js 做輔助渲染， 完整版需要用到 https://stackedit.io/app# 做可視化編輯。
+#### 表決流程（測試中）
 
 ```mermaid
 sequenceDiagram
@@ -99,7 +99,6 @@ Note left of 一讀: 記錄在案
 ```
 
 邏輯導圖
-
 ```mermaid
 graph LR
 A[邏輯A] -- 目標 --> B((通過))
